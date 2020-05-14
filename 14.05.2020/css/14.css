@@ -1,0 +1,16 @@
+html{
+    background-color: seagreen;
+}
+.caja{
+    margin : 8px;
+    padding: 8px;
+    border-style: solid;
+    border-width: 8px;
+    border-color: chartreuse;
+    border-left: 6px solid #aaf;
+    border-left-width: 0em;
+    border-radius: 20px;
+    height: 100px;
+    width: 100px;
+
+}
